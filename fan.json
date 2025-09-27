@@ -1,5 +1,5 @@
 {
-    fanLowTemp: 40.0,
-    fanHighTemp: 70.0,
-    updateInterval: 1.0
+    "fanLowTemp": 40.0,
+    "fanHighTemp:": 70.0,
+    "updateInterval": 1.0
 }
